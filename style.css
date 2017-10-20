@@ -1,0 +1,14 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#shape {
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    border-radius: 50%;
+    display: none;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
